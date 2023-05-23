@@ -1,5 +1,5 @@
 ### • Olá, eu sou o Thiago Honorato🖐️💻
-### • Sou estudante de Engenharia de Computação na Universidade Federal de Goiás, nesse github postarei minha experiência adquirida durante a faculdade e projetos complementares.
+### • Sou estudante de Engenharia de Computação na Universidade Federal de Goiás(UFG), nesse github postarei minha experiência adquirida durante a faculdade e projetos complementares.
 
 ## • Social
 
@@ -8,7 +8,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoHF31&show_icons=true&theme=tokyonight)
-![Top Thiago Honorato Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHF31&hide_progress=true)
+![Top Thiago Honorato Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHF31&hide_progress=true&theme=tokyonight)
+
 
 ### | Tecnologias conhecidas: 
 <div style="display: inline_block"><br>
