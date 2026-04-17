@@ -1,33 +1,138 @@
-### • Olá, eu sou o Thiago Honorato🖐️💻
-### • Sou estudante de Engenharia de Computação na Universidade Federal de Goiás(UFG), nesse github postarei minha experiência adquirida durante a faculdade e projetos complementares.
+<div align="center">
 
-## • Social
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thiago%20Honorato&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Computação%20•%20CEIA%20UFG&descAlignY=55&descSize=18"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiago_honorato_f?igshid=MzNlNGNkZWQ4Mg==)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-honorato-ba9219255/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=60&duration=3000&pause=1000&color=58A6FF&lines=Olá+Mundo!+👋;Estudante+de+Eng.+Computação+na+UFG;Apaixonado+por+Data+Science+%26+IA;Java+%7C+Python+%7C+C+%7C+R+Developer;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG"/>
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoHF31&show_icons=true&theme=tokyonight)
-![Top Thiago Honorato Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHF31&hide_progress=true&theme=tokyonight)
+<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoHF31/ThiagoHF31/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoHF31/ThiagoHF31/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThiagoHF31/ThiagoHF31/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
-### | Tecnologias conhecidas: 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img align="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-    <img align="center" alt="Microsoft" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
-## | IDEs
+---
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-    <img align="center" alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=whitee">
-    <img align="center" alt="VScode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img align="center" alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-</div><br/>
+## 👨‍💻 Sobre mim
 
-• “Qualquer tecnologia suficientemente avançada é equivalente à mágica”. Arthur C. Clarke – escritor. 🎩
+<table>
+<tr>
+<td valign="top" width="55%">
+
+```yaml
+nome:      Thiago Honorato
+curso:     Engenharia de Computação
+faculdade: CEIA - UFG (Goiânia, Brasil)
+foco:      Data Science & Inteligência Artificial
+conquistas: Pull Shark • Pair Extraordinaire • Quickdraw
+```
+
+- 🎓 **Engenharia de Computação** no **CEIA – UFG**
+- 🤖 Explorando **Data Science** e **IA** com Python e R
+- 📊 Projetos com análise de dados, sinais e Transformada de Fourier
+- ☕ Desenvolvendo **POO**, **Design Patterns** e APIs em Java
+- 🧮 Estruturas de dados e algoritmos em C
+- 🔭 Sempre em busca de novos desafios
+
+</td>
+<td valign="top" align="center" width="45%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Data Science GIF"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thiago_honorato_f)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-honorato-ba9219255/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.honorato@discente.ufg.br)
+
+</div>
+
+---
+
+## ⚒️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### Linguagens
+<img src="https://skillicons.dev/icons?i=java,python,c,r&theme=dark" alt="Languages"/>
+
+### Ferramentas & IDEs
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,git,github,linux,arduino&theme=dark" alt="Tools"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ThiagoHF31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ThiagoHF31&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThiagoHF31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats"/>
+</picture>
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHF31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHF31&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHF31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
+</picture>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThiagoHF31&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Gráfico de Atividade
+
+<div align="center">
+
+[![Thiago's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoHF31&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Qualquer tecnologia suficientemente avançada é equivalente à mágica."*
+> — Arthur C. Clarke 🎩
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
