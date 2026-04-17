@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thiago%20Honorato&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Computação%20•%20CEIA%20UFG&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=60&duration=3000&pause=1000&color=58A6FF&lines=Olá+Mundo!+👋;Estudante+de+Eng.+Computação+na+UFG;Apaixonado+por+Data+Science+%26+IA;Java+%7C+Python+%7C+C+%7C+R+Developer;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=60&duration=3000&pause=1000&color=58A6FF&lines=Olá+Mundo!+👋;Estudante+de+Eng.+Computação+na+UFG;Data+Science+%26+IA;Java+%7C+Python+%7C+C+%7C+R+Developer;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG"/>
 
 <br>
 
@@ -20,27 +20,33 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="58%">
 
 ```yaml
 nome:      Thiago Honorato
 curso:     Engenharia de Computação
-faculdade: CEIA - UFG (Goiânia, Brasil)
-foco:      Data Science & Inteligência Artificial
-conquistas: Pull Shark • Pair Extraordinaire • Quickdraw
+faculdade: UFG (Goiânia, Brasil)
+trabalho:  Pesquisador no CEIA - UFG
+foco:      Data Science • IA • Visão Computacional
 ```
 
-- 🎓 **Engenharia de Computação** no **CEIA – UFG**
-- 🤖 Explorando **Data Science** e **IA** com Python e R
-- 📊 Projetos com análise de dados, sinais e Transformada de Fourier
-- ☕ Desenvolvendo **POO**, **Design Patterns** e APIs em Java
-- 🧮 Estruturas de dados e algoritmos em C
-- 🔭 Sempre em busca de novos desafios
+- 🎓 **Engenharia de Computação** na **UFG**
+- 🔬 Pesquisador no **CEIA** (Centro de Excelência em IA – UFG)
+- 🛰️ **Geoprocessamento** de imagens de satélite
+- 👁️ **Visão Computacional** aplicada
+- 🧠 **NLP, LLMs** e modelos de linguagem
+- 🤖 **Machine Learning** e análise de dados
+- ☕ POO, Design Patterns e APIs em **Java**
+- 🧮 Algoritmos e estruturas de dados em **C**
 
 </td>
-<td valign="top" align="center" width="45%">
+<td valign="top" align="center" width="42%">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Data Science GIF"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programação" width="260" style="border-radius:8px; margin-bottom:10px;"/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" alt="Data Science GIF" style="border-radius:8px;"/>
 
 </td>
 </tr>
